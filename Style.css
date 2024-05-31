@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(128, 203, 230, 0.497);
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+ul.centred{
+    display: inline-block;
+    text-align: left;
+}
